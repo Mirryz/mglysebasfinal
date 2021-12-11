@@ -1,0 +1,19 @@
+@charset "utf-8";
+h1{
+font-size:30px;	
+color:#F00;
+}
+
+.p1{
+font-size:20px;	
+color:white;	
+}
+
+ul{
+font-size:15px;
+}
+body {
+background-image:url(../img/fondo.webp);		
+font-family:"Times New Roman", Times, serif;
+}/* CSS Document *//* CSS Document */
+
